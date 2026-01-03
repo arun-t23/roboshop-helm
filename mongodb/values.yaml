@@ -1,5 +1,5 @@
 deployment:
-  image: arunt98/mongodb
+  imageRepo: arunt98/mongodb
   imageVersion: v1
 service:
   type: ClusterIP
